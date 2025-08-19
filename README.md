@@ -1,2 +1,15 @@
-# aws-sagemaker-projects
-# Employee Salary Prediction using AWS SageMaker  ## 📌 Project Overview This project is part of my learning journey in **AWS SageMaker** through Dr. Ryan Ahmed’s course.   The objective is to build a Simple linear regression model that predicts an employee’s salary based on years of experience. 
+# AWS SageMaker Projects 🚀
+
+This repository contains my hands-on learning projects using **Amazon SageMaker**, following Dr. Ryan Ahmed’s Udemy course.
+
+## 📂 Projects
+- **Project 1:** [Employee Salary Prediction](./Project-1-Salary-Prediction)  
+  Linear Regression model to predict salary based on years of experience.
+
+(More projects will be added soon...)
+
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- AWS SageMaker (Linear Learner, XGBoost, TensorFlow, AutoML)
+- Amazon S3 (data storage)
+- Amazon EC2 (compute)
