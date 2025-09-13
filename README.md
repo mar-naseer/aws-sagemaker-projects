@@ -11,8 +11,10 @@ This is just the beginning of my cloud ML journey 🚀 and I’m excited to expl
 Course details : https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/?couponCode=KEEPLEARNING
 
 
-<img width="1536" height="1536" alt="cloud2 aws" src="https://github.com/user-attachments/assets/dc335d5c-7024-4e6f-a2c5-8c7b45189da2" />
 
 <img width="450" height="270" alt="aws sagemaker" src="https://github.com/user-attachments/assets/3b988972-32c5-44f7-b423-57031608b868" />
 
 Linkedin : https://www.linkedin.com/posts/marnaseer_cloud-aws-sagemaker-activity-7363523046516670464-vHhV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJ2aw0BIzztU1efro5QeCVYtTXXZLY1Y8Y
+
+
+<img width="1536" height="1536" alt="cloud2 aws" src="https://github.com/user-attachments/assets/dc335d5c-7024-4e6f-a2c5-8c7b45189da2" />
