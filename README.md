@@ -1,7 +1,7 @@
 🌟 My Learning Journey with AWS SageMaker 🌟
 As a student passionate about AI, ML, and Data Science, I always wondered how companies take models from just code on a laptop to production-level solutions used in the real world.
 
-To bridge that gap, I recently started a hands-on course on AWS SageMaker by Dr. Ryan Ahmed on Udemy Learning and it has been a game-changer.
+To bridge that gap, I recently started a hands-on course on AWS SageMaker by Dr. Ryan Ahmed on Udemy Learning and it has been a game-changer, & lots of real learning
 
 Through this journey, I’ve not only strengthened my ML fundamentals but also learned the practical side of #Cloud deployment — managing endpoints, scaling resources, and yes, even learning from unexpected billing surprises 😅.
 💡 One big takeaway: Machine Learning isn’t just about building models — it’s about efficiently deploying, optimizing, and monitoring them in real-world environments.
