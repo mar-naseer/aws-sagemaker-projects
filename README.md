@@ -4,14 +4,19 @@
 🌟 My Learning Journey with AWS SageMaker 🌟
 As a student passionate about AI, ML, and Data Science, I always wondered how companies take models from just code on a laptop to production-level solutions used in the real world.
 
-To bridge that gap, I recently started a hands-on course on AWS SageMaker by Dr. Ryan Ahmed on Udemy Learning and it has been a game-changer, & lots of real learning
+Finally, I’ve successfully finished the "Practical AWS SageMaker – 6 Real World Case Studies" course by Dr. Ryan Ahmed on Udemy 🎓
+This was my first complete journey into Cloud + Machine Learning, and it has been eye-opening to see how AWS enables us to take models beyond Jupyter notebooks into real-world, scalable deployments.
+Throughout the course, I worked on 6 hands-on projects covering:
+ ✅ Linear & Multiple Regression (Salary + Medical Insurance Prediction)
+ ✅ XGBoost Regression with Hyperparameter Tuning (Retail Store Sales Forecasting)
+ ✅ Dimensionality Reduction with PCA + XGBoost Classification (Cardiovascular Disease Prediction)
+ ✅ Deep Learning with CNN (Traffic Sign Classification – LeNet Architecture)
+ ✅ SageMaker Studio, AutoML & Debugging Tools.
 
-Through this journey, I’ve not only strengthened my ML fundamentals but also learned the practical side of #Cloud deployment — managing endpoints, scaling resources, and yes, even learning from unexpected billing surprises 😅.
-💡 One big takeaway: Machine Learning isn’t just about building models — it’s about efficiently deploying, optimizing, and monitoring them in real-world environments.
-
-This is just the beginning of my cloud ML journey 🚀 and I’m excited to explore more in the AI/ML space.
-
-Course details : https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/?couponCode=KEEPLEARNING
+Each project pushed me to connect what I had studied in my B.E. CSE (AIML) with AWS Cloud technologies (EC2, S3, Marketplace, Studio) — moving from just “theory” to scalable, deployable solutions.
+📂 Next Steps
+ In the coming weeks, I’ll be sharing one of many project’s deployment on my GitHub repo along with the learning journey, challenges, and takeaways from each case study.
+This way, anyone following along can see not just the certificate, but the actual implementation & results behind it. 🚀
 
 
 
