@@ -12,7 +12,7 @@ A simple linear regression model built with **AWS SageMaker Linear Learner** to 
 2. Train Linear Learner model in **SageMaker**.
 3. Split data into training/testing sets.
 4. Deploy endpoint for predictions.
-5. Evaluate with **RMSE**.
+5. Evaluate with **Root Mean squared Error**.
 
 ## 📊 Results
 - Example: `5 years experience → Predicted salary ≈ $55,000`
@@ -22,3 +22,4 @@ A simple linear regression model built with **AWS SageMaker Linear Learner** to 
 - `employee_salary_prediction_notebook.ipynb` → Notebook
 - `salary.csv` → Dataset
 - `slides/employee_salary_prediction_slides.pptx` → Slides
+
