@@ -21,8 +21,10 @@ Throughout the course, I worked on 6 hands-on projects covering:
  
 
 Each project pushed me to connect what I had studied in my B.E. CSE (AIML) with AWS Cloud technologies (EC2, S3, Marketplace, AWS Studio) — moving from just “theory” to scalable, deployable solutions.
+
 📂 Next Steps
  In the coming weeks, I’ll be sharing one of many project’s deployment on my GitHub repo's  along with the learning journey, challenges, and takeaways from each case study.
+
 This way, anyone following along can see not just the certificate, but the actual implementation & results behind it. 🚀
 
 
