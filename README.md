@@ -29,6 +29,7 @@ This way, anyone following along can see not just the certificate, but the actua
 
 
 
+
 Linkedin : https://www.linkedin.com/posts/marnaseer_cloud-aws-sagemaker-activity-7363523046516670464-vHhV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJ2aw0BIzztU1efro5QeCVYtTXXZLY1Y8Y
 
 
