@@ -10,6 +10,7 @@ So Finally, I have successfully finished the "Practical AWS SageMaker – 6 Real
 This was my first complete journey into Cloud + Machine Learning, and it has been eye-opening to see how AWS enables us to take models beyond Jupyter notebooks into real-world, scalable deployments.
 Throughout the course, I worked on 6 hands-on projects covering:
 
+
  ✅ Linear & Multiple Regression (Salary + Medical Insurance Prediction)
  
  ✅ XGBoost Regression with Hyperparameter Tuning (Retail Store Sales Forecasting)
