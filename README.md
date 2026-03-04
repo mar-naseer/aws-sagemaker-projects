@@ -10,6 +10,7 @@ This was my first complete journey into Cloud + Machine Learning, and it has bee
 Throughout the course, I worked on 6 hands-on projects covering:
 
 
+
  ✅ Linear & Multiple Regression (Salary + Medical Insurance Prediction)
  
  ✅ XGBoost Regression with Hyperparameter Tuning (Retail Store Sales Forecasting)
