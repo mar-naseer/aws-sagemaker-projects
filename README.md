@@ -13,6 +13,7 @@ Throughout the course, I worked on 6 hands-on projects covering:
 
 
 
+
  ✅ Linear & Multiple Regression (Salary + Medical Insurance Prediction)
  
  ✅ XGBoost Regression with Hyperparameter Tuning (Retail Store Sales Forecasting)
