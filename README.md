@@ -33,7 +33,6 @@ Each project pushed me to connect what I had studied in my B.E. CSE (AIML) with 
 This way, anyone following along can see not just the certificate, but the actual implementation & results behind it. 🚀
 
 
-
 Linkedin : https://www.linkedin.com/posts/marnaseer_cloud-aws-sagemaker-activity-7363523046516670464-vHhV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJ2aw0BIzztU1efro5QeCVYtTXXZLY1Y8Y
 
 
