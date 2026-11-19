@@ -35,4 +35,5 @@ This way, anyone following along can see not just the certificate, but the actua
 
 Linkedin : https://www.linkedin.com/posts/marnaseer_cloud-aws-sagemaker-activity-7363523046516670464-vHhV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJ2aw0BIzztU1efro5QeCVYtTXXZLY1Y8Y
 
+
 <img width="1536" height="1536" alt="cloud2 aws" src="https://github.com/user-attachments/assets/dc335d5c-7024-4e6f-a2c5-8c7b45189da2" />
